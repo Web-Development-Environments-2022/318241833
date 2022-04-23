@@ -2,7 +2,7 @@
 
 Eldar Karol 318241833
 
-**website (git.io) link:** https://web-development-environments-2022.github.io/assignment1-Eldar-Ka/
+**website (git.io) link:** https://web-development-environments-2022.github.io/318241833/
 
 ### interesting features:
 ----------------------------------------------------------------------------------
